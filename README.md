@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghabiswas11" alt="arghabiswas11" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://arghabiswas.my.canva.site/](https://arghabiswas.my.canva.site/)
 
