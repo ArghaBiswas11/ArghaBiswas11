@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Argha Biswas</h1>
-<h3 align="center">Machine Learning Enthusiast | Computer Science & Engineering Student | Passionate about exploring new technologies and solving complex problems</h3>
+<h3 align="center">Machine Learning Enthusiast | Computer Science & Engineering | Passionate about exploring new technologies and solving complex problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghabiswas11&label=Profile%20views&color=0e75b6&style=flat" alt="arghabiswas11" /> </p>
 
