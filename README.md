@@ -4,7 +4,7 @@
 
 <h3 align="center">Machine Learning Enthusiast | Computer Science & Engineering Graduate | Passionate about exploring new technologies and solving complex problems</h3>
 
-<img align="right" alt="Coding" width="400" img src="https://github.com/user-attachments/assets/4086da0e-2995-41da-ad8d-55e240782546">
+<img align="right" alt="Coding" width="350" img src="https://github.com/user-attachments/assets/4086da0e-2995-41da-ad8d-55e240782546">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghabiswas11&label=Profile%20views&color=0e75b6&style=flat" alt="arghabiswas11" /> </p>
 
