@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghabiswas11&label=Profile%20views&color=0e75b6&style=flat" alt="arghabiswas11" /> </p>
 
-🌱 I’m currently learning: **Machine Learning, Data Science, Data Analytics**
+🌱 I’m currently learning: **Machine Learning, Data Science, Data Analytics, Generative AI**
 
 💬 Ask me about: **Data Analysis, Artificial Intelligence, AI Automation**
 
